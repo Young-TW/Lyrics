@@ -67,6 +67,7 @@ ul {
   overflow: hidden;
   background-color: #333;
   position: sticky;
+  position: -webkit- sticky;
   top: auto;
 }
 
