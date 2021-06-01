@@ -6,32 +6,18 @@ body {
     font-size: 22px;
 }
 
-#link {
-    color:black;
-    text-align: center;
-    background-color: none;
-    font-size: 1rem;
-    align-items: center;
-    align-content: center;
-    flex-direction: column;
-    border-radius: 20px;
-    width: 300px;
-    text-decoration:none;
-    margin: auto;
-}
-
-.blocks {
+.buttons {
     width: 100%;
     height: 300px;
     text-align: center;
 }
 
-#block1 {
+#b1 {
     /*background-color: #5DAEFF;*/
     background-image: url(Uchiage-Hanabi/pf.jpg);
 }
 
-#block2 {
+#b2 {
     /*background-color: #F2D54B;*/
     background-image: url(lemon/lemon.jpg);
 }
