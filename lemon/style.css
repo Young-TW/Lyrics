@@ -34,10 +34,6 @@ body {
   color: #FFFFFF;
 }
 
-#bg {
-  background-color: #000000;
-}
-
 #editby {
   color: white;
   text-align: center;
@@ -48,4 +44,8 @@ body {
   border-radius: 20px;
   width: 190px;
   font-size: 12px;
+}
+
+.buttons {
+  margin: auto;
 }
