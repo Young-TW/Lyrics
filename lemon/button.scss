@@ -70,7 +70,7 @@
 
 //=== Set button colors
 // If you wonder why use Sass vars or CSS custom properties...
-  // Make a map with the class names and matching colors
+// Make a map with the class names and matching colors
 $colors: (
   fill: #a972cb,
   pulse: #ef6eae, 
@@ -102,21 +102,6 @@ button {
   }
 }
 
-//=== Pen styling, ignore
-body {
-  color: #fff;
-  background: hsl(227, 10%, 10%);
-  font: 300 1em 'Fira Sans', sans-serif;
-  
-  // Center everything ever
-  justify-content: center;
-  align-content: center;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
-  display: flex;
-}
-
 // Basic button styles
 button {
   background: none;
@@ -125,11 +110,4 @@ button {
   line-height: 1;
   margin: 0.5em;
   padding: 1em 2em;
-}
-
-h1 { font-weight: 400; }
-
-code { 
-  color: #e4cb58;
-  font: inherit;
 }
