@@ -6,22 +6,15 @@ body {
     font-size: 22px;
 }
 
-.buttons {
-    width: 100%;
-    height: 300px;
-    text-align: center;
-}
-
+/*
 #b1 {
-    /*background-color: #5DAEFF;*/
     background-image: url(Uchiage-Hanabi/pf.jpg);
 }
 
 #b2 {
-    /*background-color: #F2D54B;*/
     background-image: url(lemon/lemon.jpg);
 }
-
+*/
 #editby {
     color: #000000;
     text-align: center;
